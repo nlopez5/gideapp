@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- RandomActivity Theme -->
+    <style
+        name="RandomActivityTheme"
+        parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">#FF0055</item>
+    </style>
+
+    <!-- DismissActivity Theme -->
+    <style
+        name="DismissActivityTheme"
+        parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">#1A1A1A</item>
+    </style>
+
+    <!-- AppTheme -->
+    <style
+        name="AppTheme"
+        parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowActionBar">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>

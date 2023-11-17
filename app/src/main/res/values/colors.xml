@@ -1,0 +1,5 @@
+<resources>
+    <color name="randomStatusBarColor">#FF0055</color>
+    <color name="dismissStatusBarColor">#000000</color>
+    <color name="imageView">#1A1A1A</color>
+</resources>

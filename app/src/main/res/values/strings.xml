@@ -1,0 +1,9 @@
+<resources>
+    <string name="Gide">Gide</string>
+    <string name="dismiss">DISMISS</string>
+    <string name="TASK" >Take Out Trash</string>
+    <string name="MESSAGE" >DON\'T FORGET TO DO THE LAUNDRY</string>
+    <string name="imageview" >imageview</string>
+    <string name="exit_button">Exit Button</string>
+    <string name="random">RANDOM</string>
+</resources>
